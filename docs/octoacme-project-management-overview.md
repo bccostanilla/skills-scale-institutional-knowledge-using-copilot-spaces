@@ -44,3 +44,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- For a quick reference on who owns what across the project lifecycle, see the [Role & Responsibility Matrix](./role-responsibility-matrix.md); for a step-by-step production release guide, use the [Release Checklist](./release-checklist.md).
