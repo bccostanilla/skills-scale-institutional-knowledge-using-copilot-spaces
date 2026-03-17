@@ -19,6 +19,8 @@ Project Management Documents
 - <a>Release &amp; Deployment Guide</a>
 - <a>Retrospective &amp; Continuous Improvement</a>
 - <a>Roles and Personas</a>
+- [Role &amp; Responsibility Matrix](./role-responsibility-matrix.md)
+- [Release Checklist](./release-checklist.md)
 
 Acceptance Criteria
 - Content aligns with existing process docs in docs/ (match tone and artifacts)
